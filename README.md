@@ -1,3 +1,5 @@
 # New Project
 
-This project was create din local system
+This project was created in local system
+
+By Aarti Rathee
